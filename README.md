@@ -78,7 +78,12 @@ ecommerce-logistics-bi/
 ---
 
 ## Executive Dashboard
-*(Power BI dashboard screenshot - coming soon)*
+
+### Operations Overview
+![Operations Dashboard](PowerBI/operations_overview.png)
+
+### Customer Intelligence
+![Customer Intelligence](PowerBI/customer_intelligence.png)
 
 ---
 
